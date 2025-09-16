@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #fafafa; color: #111; }
+label { display: grid; gap: 6px; }
+input, select, button { padding: 8px; font-size: 14px; }
+button { cursor: pointer; }
